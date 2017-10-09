@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: 18e4e402cf85d154aa0655f101b2ce54
+timeCreated: 1507365873
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 'Red  Rose '
+    100004: 'Red Rose  '
+    100006: Red Rose 0
+    100008: Red Rose 1
+    100010: Red Rose 2
+    100012: Red Rose 3
+    100014: Red Rose 4
+    100016: Red Rose 5
+    100018: Red Rose 6
+    100020: Red Rose 7
+    100022: Red Rose 8
+    100024: Red Rose 9
+    100026: Red Rose L
+    100028: Red Rose P
+    100030: Red Rose T
+    100032: Red Rose10
+    100034: Red Rose11
+    100036: Red Rose12
+    100038: Red Rose13
+    100040: Red Rose14
+    100042: Red Rose15
+    100044: Red Rose16
+    100046: Red Rose17
+    100048: Red Rose18
+    100050: Red Rose19
+    100052: Red Rose20
+    100054: Red Rose21
+    100056: Red Rose22
+    400000: //RootNode
+    400002: 'Red  Rose '
+    400004: 'Red Rose  '
+    400006: Red Rose 0
+    400008: Red Rose 1
+    400010: Red Rose 2
+    400012: Red Rose 3
+    400014: Red Rose 4
+    400016: Red Rose 5
+    400018: Red Rose 6
+    400020: Red Rose 7
+    400022: Red Rose 8
+    400024: Red Rose 9
+    400026: Red Rose L
+    400028: Red Rose P
+    400030: Red Rose T
+    400032: Red Rose10
+    400034: Red Rose11
+    400036: Red Rose12
+    400038: Red Rose13
+    400040: Red Rose14
+    400042: Red Rose15
+    400044: Red Rose16
+    400046: Red Rose17
+    400048: Red Rose18
+    400050: Red Rose19
+    400052: Red Rose20
+    400054: Red Rose21
+    400056: Red Rose22
+    2300000: 'Red  Rose '
+    2300002: 'Red Rose  '
+    2300004: Red Rose 0
+    2300006: Red Rose 1
+    2300008: Red Rose 2
+    2300010: Red Rose 3
+    2300012: Red Rose 4
+    2300014: Red Rose 5
+    2300016: Red Rose 6
+    2300018: Red Rose 7
+    2300020: Red Rose 8
+    2300022: Red Rose 9
+    2300024: Red Rose L
+    2300026: Red Rose P
+    2300028: Red Rose T
+    2300030: Red Rose10
+    2300032: Red Rose11
+    2300034: Red Rose12
+    2300036: Red Rose13
+    2300038: Red Rose14
+    2300040: Red Rose15
+    2300042: Red Rose16
+    2300044: Red Rose17
+    2300046: Red Rose18
+    2300048: Red Rose19
+    2300050: Red Rose20
+    2300052: Red Rose21
+    2300054: Red Rose22
+    3300000: 'Red  Rose '
+    3300002: 'Red Rose  '
+    3300004: Red Rose 0
+    3300006: Red Rose 1
+    3300008: Red Rose 2
+    3300010: Red Rose 3
+    3300012: Red Rose 4
+    3300014: Red Rose 5
+    3300016: Red Rose 6
+    3300018: Red Rose 7
+    3300020: Red Rose 8
+    3300022: Red Rose 9
+    3300024: Red Rose L
+    3300026: Red Rose P
+    3300028: Red Rose T
+    3300030: Red Rose10
+    3300032: Red Rose11
+    3300034: Red Rose12
+    3300036: Red Rose13
+    3300038: Red Rose14
+    3300040: Red Rose15
+    3300042: Red Rose16
+    3300044: Red Rose17
+    3300046: Red Rose18
+    3300048: Red Rose19
+    3300050: Red Rose20
+    3300052: Red Rose21
+    3300054: Red Rose22
+    4300000: 'Red  Rose '
+    4300002: 'Red Rose  '
+    4300004: Red Rose L
+    4300006: Red Rose 0
+    4300008: Red Rose 1
+    4300010: Red Rose 2
+    4300012: Red Rose 3
+    4300014: Red Rose 4
+    4300016: Red Rose 5
+    4300018: Red Rose 6
+    4300020: Red Rose 7
+    4300022: Red Rose 8
+    4300024: Red Rose 9
+    4300026: Red Rose P
+    4300028: Red Rose10
+    4300030: Red Rose11
+    4300032: Red Rose12
+    4300034: Red Rose13
+    4300036: Red Rose14
+    4300038: Red Rose15
+    4300040: Red Rose16
+    4300042: Red Rose17
+    4300044: Red Rose18
+    4300046: Red Rose19
+    4300048: Red Rose T
+    4300050: Red Rose20
+    4300052: Red Rose21
+    4300054: Red Rose22
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
